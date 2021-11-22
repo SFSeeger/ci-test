@@ -13,3 +13,6 @@ jobs:
 
       - name: Git Version
         run: git --version
+
+      - name: Python Version
+        run: python3 --version
